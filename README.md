@@ -1,6 +1,6 @@
 # Hi, I'm Henry Monday 👋
 
-I'm **Henry Monday**, a software engineer focused on building practical, secure, and scalable software systems.
+I'm just a guy!😄, a software engineer and security Proffesional focused on building practical, secure, and scalable software systems.
 
 I enjoy working across the full engineering lifecycle — from product and system design through implementation, security, deployment, and operational reliability.
 
