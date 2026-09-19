@@ -1,102 +1,128 @@
-# Hi, I'm Henry Monday 👋
+# Henry Monday
 
-I'm just a guy!😄, a software engineer and security Proffesional focused on building practical, secure, and scalable software systems.
+### Software & Security Professional
 
-I enjoy working across the full engineering lifecycle — from product and system design through implementation, security, deployment, and operational reliability.
+Just a guy!!😃. I design, build, secure, and improve software systems.
 
-## What I Build
+My work sits at the intersection of **software engineering, security, architecture, and real-world operations**. I’m interested in understanding systems end-to-end — from application code and data models to authentication, authorisation, infrastructure, deployment, and operational resilience.
 
-My work focuses on solving real-world problems with software, particularly where reliability and usability matter as much as functionality.
+## What I Do
 
-I'm interested in:
+* 💻 **Software Engineering** — building production applications and services
+* 🔐 **Security Engineering** — designing systems with security built into the architecture
+* 🏗️ **Solution & Software Architecture** — translating business requirements into maintainable technical systems
+* 🛡️ **Application Security** — authentication, authorisation, data protection and secure development
+* 🗄️ **Data & Database Security** — PostgreSQL, access control and Row-Level Security
+* 📱 **Mobile & Offline-First Systems** — designing applications that remain useful in unreliable network environments
+* ☁️ **Cloud & Backend Systems** — designing and operating modern application platforms
+* 🔄 **Systems Integration** — connecting applications, data and operational workflows
+* 🧪 **Testing & Reliability** — validating systems through real behaviour and meaningful controls
 
-* 🏗️ **Software architecture & system design**
-* 🔐 **Application and data security**
-* 📱 **Mobile & offline-first applications**
-* 🌐 **Web applications**
-* 🗄️ **Database architecture & PostgreSQL**
-* ☁️ **Cloud platforms and backend systems**
-* 🔄 **Data synchronisation & distributed workflows**
-* 🧪 **Testing, validation & reliability**
-* 🚀 **Deployment and developer tooling**
+## Engineering Mindset
 
-## Current Focus
+I believe security should not be something added at the end of development.
 
-I'm currently building **MwayCore**, a field-operations platform designed to connect office teams with engineers working in the field.
+It should be part of the architecture from the beginning.
 
-The platform combines:
+```text
+Business Requirements
+        ↓
+System Architecture
+        ↓
+Secure Design
+        ↓
+Implementation
+        ↓
+Testing & Verification
+        ↓
+Deployment
+        ↓
+Monitoring & Continuous Improvement
+```
 
-* Next.js and TypeScript for the web
-* React Native and Expo for mobile
-* PostgreSQL and Supabase for the backend
-* Offline-first mobile workflows
-* Shared TypeScript domain contracts
-* Database-level security with PostgreSQL Row-Level Security
+Good engineering, in my view, means building systems that are:
 
-A particular area of interest is building systems that continue to work reliably when the ideal conditions aren't available — whether that's poor connectivity, distributed data, or operational constraints.
+* **Secure**
+* **Reliable**
+* **Maintainable**
+* **Observable**
+* **Testable**
+* **Scalable**
+* **Practical**
 
-## Engineering Philosophy
+## Current Interests
 
-I believe good software is more than code that works.
+I'm particularly interested in:
 
-I care about systems that are:
-
-**Secure** — security should be enforced at the correct architectural boundary.
-
-**Reliable** — systems should behave predictably when things go wrong.
-
-**Maintainable** — architecture should make future changes easier, not harder.
-
-**Observable** — when something fails, we should be able to understand why.
-
-**Practical** — technology should solve a problem rather than exist for its own sake.
-
-**Testable** — important behaviour should be demonstrated through real execution, not assumptions.
+* Secure software architecture
+* Application and API security
+* Identity and access management
+* Database security
+* Cloud security
+* Secure-by-design development
+* Threat modelling
+* Security architecture
+* Zero-trust principles
+* Offline-first applications
+* Distributed systems
+* Data integrity and synchronisation
+* DevSecOps
+* CI/CD security
+* Secure cloud-native applications
 
 ## Technology
 
-### Languages & Frameworks
+### Software
 
 `TypeScript` · `JavaScript` · `SQL` · `Python`
 
 `Next.js` · `React` · `React Native` · `Expo` · `Node.js`
 
-### Backend & Data
+### Data & Backend
 
-`PostgreSQL` · `Supabase` · `REST APIs` · `Authentication` · `Row-Level Security`
+`PostgreSQL` · `Supabase` · `REST APIs` · `Authentication` · `Authorisation`
+
+### Security
+
+`Application Security` · `Security Architecture` · `Identity & Access Management`
+
+`Threat Modelling` · `Secure SDLC` · `Database Security` · `DevSecOps`
 
 ### Engineering
 
-`Git` · `GitHub Actions` · `pnpm` · `Automated Testing` · `CI/CD`
+`Git` · `GitHub Actions` · `CI/CD` · `Automated Testing` · `System Design`
 
-### Architecture
+## Building Real-World Systems
 
-`System Design` · `Security Architecture` · `Offline-First Systems` · `Data Modelling` · `API Design` · `Cloud Architecture`
+I enjoy working on systems where software has to operate under real-world constraints.
 
-## What I'm Interested In
+That includes applications where:
 
-I'm particularly interested in the intersection of:
+* users may have different levels of access;
+* sensitive information needs strong protection;
+* connectivity cannot always be relied upon;
+* multiple clients need to remain consistent;
+* data integrity matters;
+* security controls need to be enforced rather than assumed;
+* and the system needs to remain maintainable as it grows.
 
-```text
-Software Engineering
-        +
-System Architecture
-        +
-Security
-        +
-Real-world Operations
-```
+## A Few Principles I Work By
 
-That's where I find the most interesting engineering problems.
+> **Security is an architectural property, not just a feature.**
 
-## GitHub
+> **The application can guide the user; the security boundary must enforce the rules.**
 
-Most of my repositories reflect things I'm actively building, experimenting with, or learning from.
+> **Assume failure. Design for recovery.**
 
-I'm always interested in improving how software is designed, secured, tested, deployed, and operated.
+> **If something matters, verify it.**
+
+## On GitHub
+
+You'll find projects covering software development, architecture, security, experimentation, and tools that help solve practical engineering problems.
+
+I'm continuously learning, building, testing, and refining how secure software systems are designed and delivered.
 
 ---
 
-### Build things that solve real problems.
-
-— **Henry Monday**
+**Henry Monday**
+*Software & Security Professional*
